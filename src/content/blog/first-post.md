@@ -6,7 +6,7 @@ author: "Diallo Wallace"
 tags: ["space", "history", "aerospace", "influencers"]
 heroImage: "/images/diallo2.png"
 ---
-
+![My Headshot](/images/IMG_7992.jpeg)
 This post highlights some of the most influential figures in space exploration and aerospace. It is not exhaustive, but it provides a broad survey across eras and disciplines with links for deeper reading.
 
 ## Early Pioneers and Rocketry
