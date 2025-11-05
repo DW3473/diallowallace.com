@@ -1,5 +1,5 @@
 ---
-title: "About Diallo Wallace"
+title: "Diallo Wallace"
 image: "/images/diallo1.png"
 ---
 
