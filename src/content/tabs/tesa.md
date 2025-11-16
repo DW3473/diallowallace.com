@@ -1,5 +1,5 @@
 ---
-title: "TESA"
+title: "The Engineering and Science Academy (TESA)"
 image: "/images/TESA FINAL 22OCT2025.png"
 ---
 
