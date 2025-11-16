@@ -25,10 +25,13 @@ To counter the academic and motivational challenges driving a 60% attrition rate
       border: 1px solid #444;
       padding: 8px 12px;
       vertical-align: top;
+      text-align: center;
     }
     th {
-      text-align: left;
-      font-weight: bold; /* ensures headers are bold */
+      th {
+  font-weight: bold;
+  text-align: center;
+  border-bottom: 2px solid #000; /* black underline */
     }
     h1 {
       text-align: center;
