@@ -1,5 +1,6 @@
 ---
 title: "TESA"
+image: "/images/TESA FINAL 22OCT2025.png"
 ---
 
 **The Enginering and Science Academy (TESA)** is a pre-college hybrid (resident and online) school, designed to prepare students for academic and technical rigor. With a mission rooted in aerospace excellence, TESA equips students with the skills, certifications, and confidence to thrive in STEM-intensive majors at universities. 
