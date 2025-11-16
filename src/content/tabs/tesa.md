@@ -12,7 +12,7 @@ More details coming soon.
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>3x3 Table</title>
+  <title>Course offerings</title>
   <style>
     table {
       border-collapse: collapse;
