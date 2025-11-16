@@ -27,7 +27,6 @@ To counter the academic and motivational challenges driving a 60% attrition rate
       vertical-align: top;
     }
     th {
-      background: #f2f2f2;
       text-align: left;
       font-weight: bold; /* ensures headers are bold */
     }
