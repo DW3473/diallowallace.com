@@ -1,8 +1,5 @@
 ---
 title: "Scholarships"
-
-image: "/Fari.jpg"
-
 ---
 
 
