@@ -1,7 +1,7 @@
 ---
 title: "Scholarships"
 
-image: "/image/Fari.png"
+image: "/image/Fari.jpg"
 
 ---
 
