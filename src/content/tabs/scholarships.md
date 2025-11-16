@@ -3,6 +3,8 @@ title: "Scholarships"
 
 image: "/image/Fari.jpg"
 
+Image: "/image/Mr. Veri.jpg"
+
 ---
 
 
