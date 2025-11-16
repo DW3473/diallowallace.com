@@ -7,7 +7,6 @@ title: "TESA"
 To counter the academic and motivational challenges driving a 60% attrition rate among first-year engineering students, the Engineering and Science Academy (TESA) equips learners with the knowledge, skills, and abilities to thrive in college. Through 10-week for-credit courses, students tackle real-world design challenges and earn industry-recognized certifications in MATLAB, Satellite Toolkit (STK), and the Project Management Institute’s CAPM—tools used by aerospace professionals. TESA’s hands-on learning and mentorship model fosters resilience and readiness for success in STEM majors.
 
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,7 +30,6 @@ To counter the academic and motivational challenges driving a 60% attrition rate
       th {
   font-weight: bold;
   text-align: center;
-  border-bottom: 2px solid #000; /* black underline */
     }
     h1 {
       text-align: center;
