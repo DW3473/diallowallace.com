@@ -1,7 +1,7 @@
 ---
 title: "Scholarships"
 
-| <img src="Fari.jpg" width="200"/> | <img src="Mr. Veri.jpg" width="200"/> | <img src="Jim Irwin.jpg" width="200"/> |
+![Alt text](images/Fari.jpg)
 
 ---
 
