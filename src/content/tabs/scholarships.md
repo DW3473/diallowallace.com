@@ -1,7 +1,7 @@
 ---
 title: "Scholarships"
 
-![Alt text](images/Fari.jpg)
+image: "/Fari.jpg"
 
 ---
 
