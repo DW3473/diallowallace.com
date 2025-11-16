@@ -1,12 +1,11 @@
 ---
 title: "Scholarships"
-
+---
 image: "/image/Fari.jpg"
-
+---
 image: "/image/Mr. Veri.jpg"
-
+---
 image: "/image/Jim Irwin.jpg"
-
 ---
 
 
