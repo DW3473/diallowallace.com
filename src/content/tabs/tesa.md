@@ -12,40 +12,112 @@ More details coming soon.
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Course offerings</title>
+  <title>Course Offerings</title>
   <style>
     table {
       border-collapse: collapse;
-      width: 300px;
+      width: 100%;
+      max-width: 900px;
+      margin: 20px auto;
+      font-family: Arial, sans-serif;
     }
-    td, th {
-      border: 1px solid #333;
-      padding: 8px;
+    th, td {
+      border: 1px solid #444;
+      padding: 8px 12px;
+      vertical-align: top;
+    }
+    th {
+      background: #f2f2f2;
+      text-align: left;
+      font-weight: bold; /* ensures headers are bold */
+    }
+    h1 {
       text-align: center;
-    }
-    caption {
-      font-weight: bold;
-      margin-bottom: 8px;
+      font-size: 1.5rem;
+      margin-top: 20px;
+      margin-bottom: 10px;
     }
   </style>
 </head>
 <body>
+  <h1>Course Offerings</h1>
   <table>
-    <caption>3 × 3 Table</caption>
-    <tr>
-      <td>R1C1</td>
-      <td>R1C2</td>
-      <td>R1C3</td>
-    </tr>
-    <tr>
-      <td>R2C1</td>
-      <td>R2C2</td>
-      <td>R2C3</td>
-    </tr>
-    <tr>
-      <td>R3C1</td>
-      <td>R3C2</td>
-      <td>R3C3</td>
-    </tr>
+    <thead>
+      <tr>
+        <th>Science</th>
+        <th>Technology</th>
+        <th>Engineering</th>
+        <th>Mathematics</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Physics First</td>
+        <td>Rasperry Pi</td>
+        <td>*Pre-Engineering</td>
+        <td>Mathematics for Space Applications</td>
+      </tr>
+      <tr>
+        <td>Physics I</td>
+        <td>Arduino</td>
+        <td>Technical Writing</td>
+        <td>Computational Calculus I (Numerical Differentiation)</td>
+      </tr>
+      <tr>
+        <td>Physics C (Mechanics)</td>
+        <td>*MATLAB Computer Programming</td>
+        <td>Structural Engineering</td>
+        <td>Computational Calculus II (Numerical Integration)</td>
+      </tr>
+      <tr>
+        <td>Physics C (E&amp;M)</td>
+        <td></td>
+        <td>Electrical Engineering I (DC)</td>
+        <td>Differential Equations (numeric)</td>
+      </tr>
+      <tr>
+        <td>Statics</td>
+        <td></td>
+        <td>Electrical Engineering II (AC)</td>
+        <td>Linear Algebra</td>
+      </tr>
+      <tr>
+        <td>Dynamics</td>
+        <td></td>
+        <td>Mechanical Engineering</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td>Aerospace Engineering (Aerodynamics)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td>Aerospace Engineering II (Aerodynamics II)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td>Aerospace Engineering (Orbital Mechanics I)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td>Aerospace Engineering (Orbital Mechanics II)</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td>Rocketry</td>
+        <td></td>
+      </tr>
+    </tbody>
   </table>
 </body>
+</html>
