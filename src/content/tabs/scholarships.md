@@ -1,9 +1,6 @@
 ---
 title: "Scholarships"
 
-
-| Caption 1 | Caption 2 | Caption 3 |
-|-----------|-----------|-----------|
 | <img src="Fari.jpg" width="200"/> | <img src="Mr. Veri.jpg" width="200"/> | <img src="Jim Irwin.jpg" width="200"/> |
 
 ---
