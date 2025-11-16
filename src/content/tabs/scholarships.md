@@ -3,10 +3,6 @@ title: "Scholarships"
 
 image: "/image/Fari.png"
 
-image: "/image/Mr. Veri.png"
-
-image: "/image/Jim Irwin.png"
-
 ---
 
 
