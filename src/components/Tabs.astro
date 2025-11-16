@@ -1,0 +1,37 @@
+---
+const tabs = [
+  { label: 'Get into Space Education.', href: '/home/', key: 'home' },
+  { label: 'TESA', href: '/tesa/', key: 'tesa' },
+  { label: 'Scholarships', href: '/scholarships/', key: 'scholarships' },
+  { label: 'Diallo Wallace', href: '/diallo/', key: 'diallo' },
+];
+const { current } = Astro.props as { current?: string };
+---
+<nav class="tabs" aria-label="Section tabs">
+  <ul role="tablist">
+    {tabs.map((t) => (
+      <li>
+        <a
+          role="tab"
+          aria-selected={current === t.key}
+          class:list={["tab", current === t.key && "active"]}
+          href={t.href}
+          >{t.label}</a
+        >
+      </li>
+    ))}
+  </ul>
+</nav>
+
+<style>
+  :root {
+    --accent: 102, 217, 255;
+    --accent-light: 178, 235, 242;
+    --accent-dark: 8, 14, 36;
+  }
+  .tabs { border-bottom: 1px solid rgba(var(--accent), 0.25); background: rgba(255,255,255,0.02); backdrop-filter: blur(6px); position: sticky; top: 0; z-index: 10; }
+  .tabs ul { margin: 0; padding: 0 1rem; display: flex; gap: .5rem; list-style: none; max-width: 800px; margin-inline: auto; }
+  .tabs .tab { display: inline-block; padding: .75rem 1rem; color: white; text-decoration: none; border-bottom: 2px solid transparent; border-radius: .25rem .25rem 0 0; }
+  .tabs .tab:hover { background: rgba(var(--accent), 0.08); }
+  .tabs .tab.active, .tabs .tab[aria-selected="true"] { color: rgb(var(--accent)); border-bottom-color: rgb(var(--accent)); font-weight: 600; }
+</style>

@@ -1,0 +1,67 @@
+---
+import Tabs from '../components/Tabs.astro';
+import { getCollection, getEntryBySlug } from 'astro:content';
+
+const { tab } = Astro.params as { tab?: string };
+if (!tab) {
+  throw new Error('Missing tab slug');
+}
+const entry = await getEntryBySlug('tabs', tab);
+if (!entry) {
+  throw new Error(`Tab not found: ${tab}`);
+}
+const { Content } = await entry.render();
+
+export async function getStaticPaths() {
+  const tabs = await getCollection('tabs');
+  return tabs.map((t) => ({ params: { tab: t.slug } }));
+}
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{entry.data.title} | Diallo Wallace</title>
+  </head>
+  <body>
+    <Tabs current={tab} />
+    <main>
+      <h1><span class="text-gradient">{entry.data.title}</span></h1>
+      <section class="about">
+        <div class="about-card {entry.data.image ? 'with-image' : ''}">
+          {entry.data.image && (
+            <img src={entry.data.image} alt="" width="160" height="160" class="avatar" />
+          )}
+          <div class="bio">
+            <Content />
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
+
+<style>
+  :root {
+    --accent: 102, 217, 255;
+    --accent-light: 178, 235, 242;
+    --accent-dark: 8, 14, 36;
+    --accent-gradient: linear-gradient(
+      45deg,
+      rgb(var(--accent)),
+      rgba(var(--accent-light), 0.8) 30%,
+      white 60%
+    );
+  }
+  html { background: #0b1020; color: white; font-family: system-ui, sans-serif; }
+  body { margin: 0; }
+  main { margin: auto; padding: 1rem; width: 800px; max-width: calc(100% - 2rem); line-height: 1.7; }
+  .text-gradient { background-image: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+  .about { margin-top: 2rem; }
+  .about-card { padding: 1.5rem; border-radius: 8px; border: 1px solid rgba(var(--accent-light), 25%); background: linear-gradient(rgba(var(--accent-dark), 66%), rgba(var(--accent-dark), 33%)); }
+  .about-card.with-image { display: grid; grid-template-columns: 160px 1fr; gap: 1.25rem; align-items: start; }
+  .avatar { width: 160px; height: 160px; border-radius: 100%; object-fit: cover; box-shadow: 0 0 0 2px rgba(255,255,255,0.08); }
+  @media (max-width: 640px) { .about-card.with-image { grid-template-columns: 1fr; text-align: center; } .avatar { margin: 0 auto; } }
+  .bio p { margin: 0.85rem 0; }
+</style>
