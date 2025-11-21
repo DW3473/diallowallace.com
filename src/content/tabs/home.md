@@ -10,7 +10,7 @@ To counter the academic and motivational challenges driving a 60% attrition rate
 Contact Diallo to sign up for a course
 
 <a href="mailto:diallo@tesa4space.orrg" style="color:white; text-decoration:none;">
-  dee@example.com
+  diallo@tesa4space.org
 </a>
 
 
