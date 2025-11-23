@@ -14,7 +14,6 @@
 <img src="public/images/Jim_Irwin.jpg" 
          width="200" height="200" alt="Irwin">
 
-
 </body>
 </html>
 Curated opportunities for students in space, engineering, and science. We are compiling active scholarships and programs.
