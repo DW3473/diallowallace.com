@@ -8,7 +8,4 @@ title: Scholarships
 ![Fari.](/images/Fari.jpg)
 
 <!-- Use the file path relative to public/ -->
-![Mr. Veri](/images/Mr_Veri.jpg)
-
-<!-- Use the file path relative to public/ -->
 ![JIm_Irwin.](/images/Jim_Irwin.jpg)
