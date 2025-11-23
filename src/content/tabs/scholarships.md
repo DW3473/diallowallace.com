@@ -1,3 +1,9 @@
+---
+title: "Fari"
+image: "/images/Fari.jpg"
+---
+
+
 <html lang="en"
 <head>
 <meta charset="utf-8">
