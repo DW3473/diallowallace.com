@@ -1,6 +1,6 @@
 ---
 title: Scholarships
-layout: ../layouts/BaseLayout.astro
+
 ---
 
 # Scholarships
