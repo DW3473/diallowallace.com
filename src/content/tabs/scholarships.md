@@ -1,4 +1,3 @@
-
 ---
 title: Scholarships
 
@@ -11,7 +10,7 @@ title: Scholarships
 Mr Brother Jafari loved technology. I honor his lfie with a schoalrship to SpaceCamp for a deserviing young person.
 ---
 <!-- Use the file path relative to public/ -->
-![Mr Veri.](/images/Veri3.png)
+![Mr Veri.](/images/Veri.jpg)
 ---
 Mr. Veri was the teacher that I needed and was instrumental in who I became. 
 ---
