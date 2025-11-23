@@ -7,7 +7,7 @@ title: Scholarships
 <!-- Use the file path relative to public/ -->
 ![Fari.](/images/Fari4.jpg)
 ---
-Mr Brother Jafari loved technology. I honor his lfie with a schoalrship to SpaceCamp for a deserviing young person.
+Mr Brother Jafari loved technology. I honor his life with a scholarship to SpaceCamp for a deserviing young person.
 ---
 <!-- Use the file path relative to public/ -->
 ![Mr Veri.](/images/Veri4.jpg)
