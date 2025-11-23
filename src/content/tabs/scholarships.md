@@ -8,12 +8,12 @@
 <img src="public/images/Fari.jpg" 
          width="200" height="200" alt="Fari">
 <br>
-<img src="images/Veri.jpg" 
+<img src="images/Mr_Veri.jpg" 
          width="200" height="200" alt="Veri">
-</br>
-<img src="images/Jim Irwin.jpg" 
+<br>
+<img src="images/Jim_Irwin.jpg" 
          width="200" height="200" alt="Irwin">
-</br>
+
 
 </body>
 </html>
