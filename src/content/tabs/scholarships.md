@@ -6,10 +6,10 @@ title: "Scholarships"
 <html lang="en"
 <head>
 <meta charset="utf-8">
-<title>Get Started in HTML</title>
+<title>Scholarships</title>
 </head>
 <body>
-<h1>Hello World!</h1>
+<h1>SCHOLARSHIPS</h1>
 <img src="images/Fari.jpg" 
          width="200" height="200" alt="Fari">
 <br>
