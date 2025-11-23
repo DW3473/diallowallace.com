@@ -1,7 +1,7 @@
 ---
 title: "Fari"
-image: "/images/Fari.jpg" ,
-image: "/Mr._Veri.jpg"
+image: "/images/Fari.jpg" 
+image: "/image/Mr._Veri.jpg"
 ---
 
 <html lang="en"
