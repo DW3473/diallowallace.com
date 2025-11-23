@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1>SCHOLARSHIPS</h1>
-<img src="images/Fari.jpg" 
+<img src="public/images/Fari.jpg" 
          width="200" height="200" alt="Fari">
 <br>
 <img src="images/Veri.jpg" 
@@ -13,7 +13,7 @@
 <img src="images/Jim Irwin.jpg" 
          width="200" height="200" alt="Irwin">
 </br>
-<b>This is really cool!</b>
+
 </body>
 </html>
 Curated opportunities for students in space, engineering, and science. We are compiling active scholarships and programs.
