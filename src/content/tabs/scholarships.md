@@ -19,3 +19,4 @@ Mr. Veri was the teacher that I needed and was instrumental in who I became.
 ![JIm_Irwin.](/images/Jim_Irwin.jpg)
 ---
 Jim befriended me and seen me who I would become and not who I was a the time. I am forever grateful to him. 
+---
