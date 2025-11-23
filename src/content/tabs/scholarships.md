@@ -1,11 +1,9 @@
 ---
 title: "Fari"
-image: "/images/Fari.jpg" /images/Mr._Veri.jpg
+image: "/images/Fari.jpg" 
+image: "/Mr._Veri.jpg"
 ---
----
-title:"Mr. Veri"
-image: "/images/Mr_Veri.jpg"
----
+
 <html lang="en"
 <head>
 <meta charset="utf-8">
