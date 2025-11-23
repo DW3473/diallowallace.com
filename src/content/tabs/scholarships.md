@@ -1,4 +1,3 @@
-
 ---
 /* Frontmatter block — required even if empty */
 ---
