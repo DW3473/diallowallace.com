@@ -5,7 +5,9 @@ title: Scholarships
 
 # Scholarships
 <!-- Use the file path relative to public/ -->
-![Fari.](/images/Fari.jpg)
+
+<img src="./images/Fari.jpg" alt="Logo" width="300">
+
 ---
 Mr Brother Jafari loved technology. I honor his lfie with a schoalrship to SpaceCamp for a deserviing young person.
 ---
