@@ -8,7 +8,7 @@
 
 <h1>SCHOLARSHIPS</h1>
 
-<img src="images/Fari.png" 
+<img src="images/Fari.jpg" 
      width="200" height="200" 
      alt="Fari" />
 
