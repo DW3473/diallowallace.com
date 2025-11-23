@@ -5,10 +5,10 @@ title: Scholarships
 
 # Scholarships
 <!-- Use the file path relative to public/ -->
-![JIm_Irwin.](/images/Fari.jpg)
+![Fari.](/images/Fari.jpg)
 
 <!-- Use the file path relative to public/ -->
-![JIm_Irwin.](/images/Mr_Veri.jpg)
+![Mr. Veri](/images/Mr_Veri.jpg)
 
 <!-- Use the file path relative to public/ -->
 ![JIm_Irwin.](/images/Jim_Irwin.jpg)
