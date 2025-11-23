@@ -2,6 +2,7 @@
 title: "Fari"
 image: "/images/Fari.jpg"
 ---
+---
 image: "/images/Mr_Veri.jpg"
 ---
 <html lang="en"
