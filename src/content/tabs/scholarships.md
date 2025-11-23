@@ -1,6 +1,6 @@
 ---
 title: "Fari"
-image: "/images/Mr_Veri.jpg" 
+image: "/images/Jim_Irwin.jpg" 
 ---
 
 
