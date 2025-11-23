@@ -11,9 +11,7 @@
 <img src="images/Fari.png" 
      width="200" height="200" 
      alt="Fari" />
-<img src="images/Jim_Irwin.png" 
-     width="200" height="200" 
-     alt="Jim" />
+
 <p>
   Curated opportunities for students in space, engineering, and science. 
   We are compiling active scholarships and programs.
