@@ -1,6 +1,6 @@
 ---
 title: "Fari"
-image: "/images/Fari.jpg" 
+image: "/images/Fari.jpg" ,
 image: "/Mr._Veri.jpg"
 ---
 
