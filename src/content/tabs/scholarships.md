@@ -1,37 +1,28 @@
+
 ---
-/* Frontmatter block — required even if empty */
+/* scholarships.astro */
 ---
 
-<html lang="en">
 <head>
-  <meta charset="UTF-8">
   <title>Scholarships</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin: 0;
-      padding: 20px;
-    }
     .image-row {
       display: flex;
       justify-content: center;
-      gap: 20px; /* space between images */
+      gap: 20px;
       margin-top: 40px;
     }
     .image-row img {
-      max-width: 250px; /* adjust size as needed */
+      max-width: 250px;
       height: auto;
-      border-radius: 8px; /* optional styling */
+      border-radius: 8px;
     }
   </style>
 </head>
-<body>
-  <h1>Scholarships</h1>
-  <div class="image-row">
-    <img src="/images/Fari.jpg" alt="Fari">
-    <img src="/images/Mr_Veri.jpg" alt="Mr Veri">
-    <img src="/images/Jim_Irwin.jpg" alt="Jim Irwin">
-  </div>
-</body>
-</html>
+
+<h1>Scholarships</h1>
+<div class="image-row">
+  <img src="/images/Fari.jpg" alt="Fari" />
+  <img src="/images/Mr_Veri.jpg" alt="Mr Veri" />
+  <img src="/images/Jim_Irwin.jpg" alt="Jim Irwin" />
+</div>
