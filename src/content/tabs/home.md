@@ -92,7 +92,7 @@ Contact Diallo to sign up for a course:
         <td>Dynamics</td>
         <td></td>
         <td>Mechanical Engineering</td>
-        <td></td>
+        <td>Laplace Transforms</td>
       </tr>
       <tr>
         <td>Spring,Mass,Damper</td>
