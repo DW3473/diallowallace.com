@@ -9,6 +9,8 @@ title: Scholarships
 ---
 My brother, Jafari Wallace, devoted his life to the pursuit of understanding technology. He encouraged and supported my dreams of aviation and space, for which I will always remain deeply grateful. In honor of his life and legacy, a scholarship in Jafari’s name has been established to provide a student with the opportunity to attend Space Camp.
 ---
+---
+---
 <!-- Use the file path relative to public/ -->
 ![Mr Veri.](/images/Veri4.jpg)
 ---
