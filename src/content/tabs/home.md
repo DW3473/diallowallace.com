@@ -19,7 +19,6 @@ Contact Diallo to sign up for a course:
 <head>
   <meta charset="UTF-8" />
   <title>Course Offerings</title>
-  *=Foundational Course that all other courses built upon
   <style>
     table {
       border-collapse: collapse;
@@ -128,4 +127,5 @@ Contact Diallo to sign up for a course:
     </tbody>
   </table>
 </body>
+   *=Foundational Course that all other courses built upon
 </html>
