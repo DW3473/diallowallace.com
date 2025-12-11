@@ -2,13 +2,16 @@
 title: "The Engineering and Science Academy (TESA)"
 image: "/images/TESA FINAL 22OCT2025.png"
 ---
+
 **The Enginering and Science Academy (TESA)** is a pre-college hybrid (resident and online) school, designed to prepare students for academic and technical rigor. With a mission rooted in aerospace excellence, TESA equips students with the skills, certifications, and confidence to thrive in STEM-intensive majors at universities. 
+
 To counter the academic and motivational challenges driving a 60% attrition rate among first-year engineering students, the Engineering and Science Academy (TESA) equips learners with the knowledge, skills, and abilities to thrive in college. Through 10-week for-credit courses, students tackle real-world design challenges and earn industry-recognized certifications in MATLAB, Satellite Toolkit (STK), and the Project Management Institute’s CAPM—tools used by aerospace professionals. TESA’s hands-on learning and mentorship model fosters resilience and readiness for success in STEM majors.
+
 Contact Diallo to sign up for a course: 
 <a href="mailto:diallo@tesa4space.orrg" style="color:white; text-decoration:none;">
   diallo@tesa4space.org
 </a>
----
+
 
 
 <!DOCTYPE html>
