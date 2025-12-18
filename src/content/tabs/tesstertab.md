@@ -1,4 +1,6 @@
 ---
+title: "HTML test page"
+
 ---
 <!DOCTYPE HTML>
 <html lang="en">
